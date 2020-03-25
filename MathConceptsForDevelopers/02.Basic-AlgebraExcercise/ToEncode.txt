@@ -1,0 +1,4 @@
+This is a simple text that have to be encoded.
+Then will be decoded.
+If everything is working can be used as coures project.
+	By Lyubomir Georgie !!
