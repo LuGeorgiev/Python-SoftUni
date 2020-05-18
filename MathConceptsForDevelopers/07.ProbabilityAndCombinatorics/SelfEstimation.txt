@@ -1,0 +1,34 @@
+# Math Concepts for Developers
+## Final Project 
+
+## Project name: 
+## Project author:
+
+### Terms and conditions:
+* Use Jupyter notebook for text and maths. You can use any programming language you would like.
+* Write your research and code in English. Bulgarian is also acceptable but try to use English.
+* If you have sensitive, copyrighted, or copy-protected assets, including but not limited to, images, multimedia, code, documents, and datasets,
+  you can sign an NDA (non-disclosure agreement) with the SoftUni team. Contact the lecturer if you need assistance with the process.
+* Any code which does not comply with the Bulgarian law (as of the exam date), will be given zero points.
+* Any malicious code, or code intended to do harm to the user's computer, information, or privacy, will be given zero points.
+
+By submitting your project for the exam, you agree with these terms and conditions.
+
+### Self-assessment:
+The numbers in brackets define possible points for the corresponding item.
+Replace the numbers in brackets with your own estimation.
+** Example: **
+1. Problem statement: 7
+2. Problem description: 3
+(end of example)
+
+Lyubomir Georgiev self estimation
+
+1. Problem statement: 8
+2. Layout: 16
+3. Code quality: 18
+4. Previous research: 9
+5. Gathering / generating, cleaning, and formatting data: 7
+6. Testing: 8
+7. Visualization: 9
+8. Communication: 10
